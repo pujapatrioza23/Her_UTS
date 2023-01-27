@@ -1,0 +1,8 @@
+com\puja\gaji\service\repository\GajiRepository.class
+com\puja\gaji\service\VO\Golongan.class
+com\puja\gaji\service\VO\Karyawan.class
+com\puja\gaji\service\service\GajiService.class
+com\puja\gaji\service\controller\GajiController.class
+com\puja\gaji\service\GajiServiceApplication.class
+com\puja\gaji\service\entity\Gaji.class
+com\puja\gaji\service\VO\ResponseTemplateVO.class
